@@ -1,0 +1,180 @@
+
+Algorithms can be classified into various types based on their approach, purpose, and application. Here's a breakdown of some common types of algorithms along with frequently used sub-algorithms within each category:
+
+1. Sorting Algorithms:
+
+Sorting algorithms arrange elements in a specific order (e.g., numerical or lexicographical).
+
+Frequently Used Sub-Algorithms:
+
+Bubble Sort
+Insertion Sort
+Selection Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Radix Sort
+Counting Sort
+Bucket Sort
+Shell Sort
+Cocktail Shaker Sort
+Comb Sort
+Pancake Sorting
+Cycle Sort
+Gnome Sort
+
+2. Searching Algorithms:
+
+Searching algorithms find an element within a collection of items.
+
+Frequently Used Sub-Algorithms:
+
+Linear Search
+Binary Search
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+A* Search Algorithm
+Uniform Cost Search (UCS)
+Depth-Limited Search (DLS)
+Iterative Deepening Depth-First Search (IDDFS)
+Bidirectional Search
+Fibonacci Search
+Jump Search
+Interpolation Search
+Exponential Search
+Ternary Search
+KMP (Knuth-Morris-Pratt) Algorithm
+
+3. Graph Algorithms:
+
+Graph algorithms operate on graphs (collections of nodes and edges).
+
+Frequently Used Sub-Algorithms:
+
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+Floyd-Warshall Algorithm
+Prim's Algorithm (Minimum Spanning Tree)
+Kruskal's Algorithm (Minimum Spanning Tree)
+Topological Sorting
+Johnson's Algorithm (All Pairs Shortest Path)
+Edmonds-Karp Algorithm (Maximum Flow)
+Tarjan's Algorithm (Strongly Connected Components)
+Kosaraju's Algorithm (Strongly Connected Components)
+Hierholzer's Algorithm (Eulerian Path/Circuit)
+Fleury's Algorithm (Eulerian Path/Circuit)
+Boruvka's Algorithm (Minimum Spanning Tree)
+
+4. Dynamic Programming:
+
+Dynamic programming algorithms solve complex problems by breaking them down into simpler subproblems.
+
+Frequently Used Sub-Algorithms:
+
+Fibonacci Sequence in Dynamic
+Knapsack Problem in Dynamic
+Longest Common Subsequence (LCS) in Dynamic
+Matrix Chain Multiplication in Dynamic
+Edit Distance in Dynamic
+Subset Sum Problem in Dynamic
+Coin Change Problem in Dynamic
+Shortest Paths in a Grid in Dynamic
+Maximum Subarray Sum in Dynamic
+Traveling Salesman Problem (TSP) in Dynamic
+Optimal Binary Search Tree in Dynamic
+Longest Increasing Subsequence (LIS) in Dynamic
+Minimum Cost Path in a Matrix in Dynamic
+0/1 Knapsack Problem in Dynamic
+Rod Cutting Problem in Dynamic
+
+5. Divide and Conquer:
+
+Divide and conquer algorithms solve problems by dividing them into smaller, more manageable subproblems.
+
+Frequently Used Sub-Algorithms:
+
+Merge Sort in Divide and Conquer
+Quick Sort in Divide and Conquer
+Binary Search in Divide and Conquer
+Strassen's Matrix Multiplication in Divide and Conquer
+Closest Pair of Points in Divide and Conquer
+Karatsuba Algorithm (Fast Multiplication) in Divide and Conquer
+Fast Fourier Transform (FFT) in Divide and Conquer
+Maximum Subarray Problem (Kadane's Algorithm) in Divide and Conquer
+Counting Inversions in Divide and Conquer
+Finding the Majority Element in Divide and Conquer
+Closest Point Problem in Higher Dimensions in Divide and Conquer
+Convex Hull Problem in Divide and Conquer
+Matrix Exponentiation in Divide and Conquer
+Finding Medians and Order Statistics in Divide and Conquer
+
+Voronoi Diagram Construction
+
+6. Greedy Algorithms:
+
+Greedy algorithms make locally optimal choices at each stage with the hope of finding a global optimum.
+
+Frequently Used Sub-Algorithms:
+
+Prim's Algorithm (Minimum Spanning Tree) in Greedy
+Kruskal's Algorithm (Minimum Spanning Tree) in Greedy
+Dijkstra's Algorithm (Shortest Path) in Greedy
+Huffman Coding (Optimal Prefix Codes) in Greedy
+Interval Scheduling Maximization in Greedy
+Fractional Knapsack Problem in Greedy
+Job Scheduling Problem (Interval Partitioning) in Greedy
+Minimum Spanning Tree (MST) Heuristics in Greedy
+Set Cover Problem in Greedy
+Closest Pair of Points in the Plane in Greedy
+Egyptian Fraction Representation in Greedy
+Activity Selection Problem in Greedy
+Shortest Superstring Problem in Greedy
+Maximum Bipartite Matching in Greedy
+Task Scheduling Problem in Greedy
+
+7. Backtracking Algorithms:
+
+Backtracking algorithms solve problems incrementally by building a solution piece by piece and backing off when they can't complete the solution.
+
+Frequently Used Sub-Algorithms:
+
+N-Queens Problem in Backtracking
+Sudoku Solver in Backtracking
+Hamiltonian Cycle Problem in Backtracking
+Subset Sum Problem in Backtracking
+Knight's Tour Problem in Backtracking
+Graph Coloring Problem in Backtracking
+Rat in a Maze Problem in Backtracking
+Cryptarithmetic Puzzles in Backtracking
+Combinatorial Optimization Problems in Backtracking
+Constraint Satisfaction Problems in Backtracking
+Permutations Generation in Backtracking
+Generating Subsets in Backtracking
+Crossword Puzzle Solver in Backtracking
+Queens Placement Problem in Backtracking
+Satisfiability Problem (SAT) in Backtracking
+
+
+8. Brute Force Algorithms:
+
+Brute force algorithms solve problems by systematically trying all possible solutions.
+
+Frequently Used Sub-Algorithms:
+
+Enumeration in Brute Force
+Generating Permutations in Brute Force
+Generating Subsets  in Brute Force
+Password Cracking   in Brute Force
+Cryptanalysis   in Brute Force
+Exhaustive Search   in Brute Force
+Subset Sum Problem (via brute force)    in Brute Force
+Traveling Salesman Problem (via brute force)    in Brute Force
+Combinatorial Optimization Problems (via brute force)   in Brute Force
+Combinatorial Generation    in Brute Force
+Pattern Matching (Naive)    in Brute Force
+SAT Solving in Brute Force
+String Matching Algorithms (e.g., Brute Force)  in Brute Force
+Integer Factorization (Trial Division)  in Brute Force
+Matrix Search   in Brute Force
